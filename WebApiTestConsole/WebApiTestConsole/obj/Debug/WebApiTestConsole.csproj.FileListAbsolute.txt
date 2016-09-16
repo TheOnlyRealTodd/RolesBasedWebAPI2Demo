@@ -1,0 +1,10 @@
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\WebApiTestConsole.exe.config
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\WebApiTestConsole.exe
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\WebApiTestConsole.pdb
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\WebApiTestConsole\WebApiTestConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\WebApiTestConsole\WebApiTestConsole\obj\Debug\WebApiTestConsole.csprojResolveAssemblyReference.cache
+D:\Projects\WebApiTestConsole\WebApiTestConsole\obj\Debug\WebApiTestConsole.exe
+D:\Projects\WebApiTestConsole\WebApiTestConsole\obj\Debug\WebApiTestConsole.pdb
